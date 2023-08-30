@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Take a few minutes to learn what I've been up to
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, my name is Coleton and I am currently an MA student at National Dong Hwa University in the College of Indigenous Studies. 
+My research interests include:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Language documentation, revitalization, and reclamation
+- Digital ethnography, especially of minoritized language spaces
+- Developing Natural Language Processing tools especially for Indigenous and endangered languages
 
-What else do you need?
+### What I am up to right now
 
-### My story
+- Finishing my MA Thesis titled "Mipaselak to sowal no Pangcah: a critical digital ethnography of two open language revitalization platforms in Taiwan, 'Amis MoeDict and 'Amis Wikipitiya.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### A little bit about where I come from
+
+I was born and raised in Indianapolis, IN. I studied 
