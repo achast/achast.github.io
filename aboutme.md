@@ -10,6 +10,7 @@ My research interests include:
 - Language documentation, revitalization, and reclamation
 - Digital ethnography, especially of minoritized language spaces
 - Developing Natural Language Processing tools especially for Indigenous and endangered languages
+- Supporting Indigneous sovereignty initiatives in language, culture, land, and data
 
 ### What I am up to right now
 
