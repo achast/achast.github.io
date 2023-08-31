@@ -133,7 +133,7 @@ text-col: "#394a51"
 link-col: "#008AFF"
 hover-col: "#d55b3e"
 footer-col: "#53a8b6"
-footer-text-col: "#757a79"
+footer-text-col: "#394a51"
 footer-link-col: "#394a51"
 footer-hover-col: "#d55b3e"
 
