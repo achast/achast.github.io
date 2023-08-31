@@ -20,7 +20,6 @@ author: Coleton Hast
 ###############################################
 
 navbar-links:
-  Home: ""
   Projects: "projects"
   Blog: "blog"
   CV: "cv"
@@ -255,7 +254,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "blog/page:num"
 
 kramdown:
   input: GFM
