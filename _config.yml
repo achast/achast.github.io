@@ -294,4 +294,4 @@ plugins:
 # 2fc73a3a967e97599c9763d05e564189
 
 # Move posts to blog page
-paginate_path: "/blog.html/page:num/"
+paginate_path: "/blog/page:num/"
