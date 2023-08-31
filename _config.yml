@@ -22,7 +22,7 @@ author: Coleton Hast
 navbar-links:
   Home: "index"
   Projects: "projects"
-  Blog: "blog"
+  Blog: "/blog/index.html/"
   CV: "cv"
 
 ################
