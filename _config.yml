@@ -131,11 +131,11 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#1a1831"
 link-col: "#1d556f"
-hover-col: "#FA360A9D"
+hover-col: "#FA360AC9"
 footer-col: "#62929a"
-footer-text-col: "#efddb2"
+footer-text-col: "#1a1831"
 footer-link-col: "#1a1831"
-footer-hover-col: "#FA360A9D"
+footer-hover-col: "#FA360AC9"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -291,3 +291,5 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+# Move posts to blog page
+paginate_path: "/blog/page:num/"
