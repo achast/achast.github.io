@@ -20,7 +20,7 @@ author: Coleton Hast
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: ""
   Projects: "projects"
   Blog: "blog"
   CV: "cv"
@@ -255,6 +255,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "page:num"
 
 kramdown:
   input: GFM
@@ -292,6 +293,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-# Move posts to blog page
-paginate_path: "/blog/page:num/"
