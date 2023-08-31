@@ -20,9 +20,9 @@ author: Coleton Hast
 ###############################################
 
 navbar-links:
-  Home: "index"
+  Home: ""
   Projects: "projects"
-  Blog: "/blog/index.html/"
+  Blog: "blog"
   CV: "cv"
 
 ################
