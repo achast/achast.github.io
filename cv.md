@@ -3,6 +3,8 @@ layout: page
 title: My CV
 ---
 
-<iframe src="Hast-CV-simple.pdf" width="100%" height="100%">
-This browser does not support PDFs. Please download the PDF to view it: 
-<a href="Hast-CV-simple.pdf">Download PDF</a></iframe>
+<div id="pdf" style="height: 800px;"></div>
+<script src="/js/pdfobject.min.js"></script>
+<script>
+PDFObject.embed("Hast-CV-simple.pdf", "#pdf");
+</script>
