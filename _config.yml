@@ -22,6 +22,7 @@ author: Coleton Hast
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
+  Blog: "blog"
   CV: "cv"
 
 ################
@@ -148,7 +149,8 @@ footer-hover-col: "#FA360AC9"
 #mobile-theme-col: "#fa360a"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-site-css: "/assets/css/custom-styles.css"
+site-css: 
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
