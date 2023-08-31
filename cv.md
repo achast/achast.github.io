@@ -20,7 +20,7 @@ title: My CV
           width="500"
           height="678"
         >
-        <p>PDF viewer not available, <a href="myfile.pdf">download my CV</a> instead.</p>
+        <p>PDF viewer not available, <a href="_pdfs\Hast-CV-simple.pdf">download my CV</a> instead.</p>
         </iframe>
       </object>
     </div>
