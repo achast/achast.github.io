@@ -4,7 +4,10 @@ title: About Me
 Subtitle: Let me tell you about myself.
 ---
 
+
 Hi, my name is Coleton and I am currently an MA student at National Dong Hwa University in the College of Indigenous Studies. 
+<img style="float: right;" src="/assets/img/me-on-taroko-cliff.jpeg">
+
 My research interests include:
 
 - Language documentation, revitalization, and reclamation
