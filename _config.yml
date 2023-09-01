@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: ACH
+title: Coleton Hast
 
 # Your name to show in the footer
 author: Coleton Hast
@@ -20,8 +20,9 @@ author: Coleton Hast
 ###############################################
 
 navbar-links:
+  About Me: "aboutme"
   Projects: "projects"
-  Blog: "blog"
+  #Blog: "blog"
   CV: "cv"
 
 ################
@@ -252,7 +253,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+#paginate: 5
 #paginate_path: "/blog/page:num/"
 
 kramdown:
