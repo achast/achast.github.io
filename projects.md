@@ -14,7 +14,7 @@ In 2022, I had the great priviledge to attend the NAISA regional gathering at Po
 As a soon-to-be Bostonian, I sought out 7000 Languages to get involved with a language revitalization organization based in the area. As a Data Management volunteer, I maintain 7L's internal knowledge-base detailing the many communities they work with, and have served as a liaison between them and Taiwanese Indigenous communities interested in utilizing 7L's software.
 
 ## Past Projects
-### The Crow Dicitonary: Apsáalooke-English
+### The Crow Dictionary: Apsáalooke-English
 First as an intern (2017-2020), and later as a full-time assistant editor (2020-2021) I contributed to the _Crow Dictionary: Apsáalooke-English_, working with Apsáalooke speakers to add and revise entries in the dictionary. The final dictionary is available for free online and as a mobile app, and features over 11,000 entries with recordings from male and female speakers, morphological breakdowns, example sentences, and cultural background information.
 
 ### Fieldwork with Tibetic Languages in Nepal/India
