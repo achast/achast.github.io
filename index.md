@@ -4,8 +4,7 @@ title: Coleton Hast
 subtitle: Welcome to my personal site.
 ---
 
-<img style="float: right; padding: 10px" src="/assets/img/me-on-taroko-cliff.jpeg" width="50%">
-Hi, my name is Coleton and I am currently an MA student at National Dong Hwa University in the College of Indigenous Studies. 
+Hi, my name is Coleton and I am currently an MA student at National Dong Hwa University in the College of Indigenous Studies. I've just moved to Cambridge, MA and am working as a Program Advisor for EF High School Exchange Year.
 
 ### My Research Interests
 
@@ -17,7 +16,13 @@ Hi, my name is Coleton and I am currently an MA student at National Dong Hwa Uni
  
 ### What I am up to right now
 
-- Finishing my MA Thesis titled "Mipaselak to sowal no Pangcah: a critical digital ethnography of two open 'Amis/Pangcah language platforms
+- Beginning work as a Program Advisor at EF High School Exchange Year in Cambridge, MA
+- About to defend my MA Thesis titled "Mipaselak to sowal no Pangcah: a critical digital ethnography of two open 'Amis/Pangcah language platforms
 - Serving as a Data Management Volunteer for 7000 Languages
-- Imininently moving to Cambridge, MA to join my partner, Lauren, who is beginning her PhD in Art History at Harvard
 - Teaching myself more Python, webdev skills, and how to build NLP tools for the languages I work with
+
+ <figure>
+  <img style="float: right; padding: 10px" src="/assets/img/me-on-taroko-cliff.jpeg" width="50%">
+  <figcaption>Me, overlooking Taroko Gorge on Zhuilu Old Trail.</figcaption>
+</figure> 
+
