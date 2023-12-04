@@ -25,6 +25,5 @@ Hi, my name is Coleton and I am currently an MA student at National Dong Hwa Uni
 
  <figure>
   <img src="/assets/img/me-on-taroko-cliff.jpeg" width="80%" class="center">
-  <figcaption>Me, overlooking Taroko Gorge on Zhuilu Old Trail.</figcaption>
 </figure> 
 
