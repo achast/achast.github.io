@@ -22,7 +22,7 @@ Hi, my name is Coleton and I am currently an MA student at National Dong Hwa Uni
 - Teaching myself more Python, webdev skills, and how to build NLP tools for the languages I work with
 
  <figure>
-  <img style="float: right; padding: 10px" src="/assets/img/me-on-taroko-cliff.jpeg" width="50%">
+  <img style="float: center; padding: 10px" src="/assets/img/me-on-taroko-cliff.jpeg" width="50%">
   <figcaption>Me, overlooking Taroko Gorge on Zhuilu Old Trail.</figcaption>
 </figure> 
 
