@@ -8,7 +8,7 @@ Hi, my name is Coleton and I am a PhD student at Brown University as well as a g
 
 I am interested in the repercussions of AI on Indigenous and endangered language communities, data colonialism, digital methods and ethnography, as well as decolonial methodologies.
 
-My master's thesis was a digital ethnography of two open language platforms made in collaboration between open source technology communities and members of the Pangcah/'Amis nation entitled, _Mipaselak to sowal no Pangcah: a digital ethnography of two  open 'Amis language platforms, 'Amis MoeDict and 'Amis Wikipitiya_ and is available via the NDHU Library.
+My master's thesis is _Mipaselak to sowal no Pangcah: a digital ethnography of two  open 'Amis language platforms, 'Amis MoeDict and 'Amis Wikipitiya_ and is available via the NDHU Library.
 
  <figure>
   <img src="/assets/img/me-on-taroko-cliff.jpeg" width="80%" class="center">
