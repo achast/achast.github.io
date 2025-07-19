@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Coleton Hast
 subtitle: PhD Student in Anthropology at Brown University 
 ---
