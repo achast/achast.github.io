@@ -5,8 +5,8 @@ subtitle: PhD Student in Anthropology at Brown University
 ---
 
 ## 🗞️ News
-- September 2025: I am excited to announce I will be starting my PhD in Anthropology at Brown University! 🎉
-- November 2024: I presented my research on 'Amis Wikipitiya at the First Conference on Global Indigenous Studies at Indiana University Bloomington. You can view a PDF of the slide deck [here](/files/ACH_251116_CGISPresentation.pdf).
+- **September 2025:** I am excited to announce I will be starting my PhD in Anthropology at Brown University! 🎉
+- **November 2024:** I presented my research on 'Amis Wikipitiya at the First Conference on Global Indigenous Studies at Indiana University Bloomington. You can view a PDF of the slide deck [here](/files/ACH_251116_CGISPresentation.pdf).
 
 ## 👋 About Me
 My name is Coleton and I am a PhD student at Brown University as well as a graduate of National Dong Hwa University's College of Indigenous Studies in Taiwan (東華大學原民會-族群關係). I am a lingusitic anthropologist whose work focuses on language revitalization and reclamation in Taiwan, especially among the Pangcah/'Amis. 
