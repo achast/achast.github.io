@@ -6,6 +6,7 @@ subtitle: PhD Student in Anthropology at Brown University
 
 ## 🗞️ News
 - **September 2025:** I am excited to announce I will be starting my PhD in Anthropology at Brown University! 🎉
+  - Update: Brown made a bad deal and I wrote about it [here](/_posts/2025-08-04-brown-made-a-bad-deal.md)
 - **November 2024:** I presented my research on 'Amis Wikipitiya at the First Conference on Global Indigenous Studies at Indiana University Bloomington. You can view a PDF of the slide deck [here](/files/ACH_251116_CGISPresentation.pdf).
 
 ## 👋 About Me
