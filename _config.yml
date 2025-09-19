@@ -51,8 +51,8 @@ round-avatar: true
 social-network-links:
   email: "coleton_hast@brown.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Coleton Hast
-  github: achast
+#  facebook:
+#  github:
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -143,7 +143,7 @@ link-col: "#0191a4"
 hover-col: "#88bcc8"
 footer-col: "#01697b"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#1a1831"
+footer-link-col: "#FFFFFF"
 footer-hover-col: "#88bcc8"
 
 # My CSS Color Sheet
