@@ -12,8 +12,14 @@
   src:url("/assets/fonts/Ubuntu_Mono/UbuntuMono-Bold.ttf");
 }
 
+@font-face {
+  font-family: Lora;
+  src:url("/assets/fonts/Lora/Lora-VariableFont_wght.ttf");
+}
+
+
 h1,h2,h3,h4,h5,h6 {
-  font-family: Ubuntu_Mono;
+  font-family: Lora;
 }
 
 body {
