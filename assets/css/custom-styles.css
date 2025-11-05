@@ -2,32 +2,10 @@
     font-size: 3.5rem;
   }
 
-@font-face {
-  font-family: Ubuntu;
-  src:url("/assets/fonts/Ubuntu/Ubuntu-Regular.ttf");
-}
-
-@font-face {
-  font-family: Ubuntu_Mono;
-  src:url("/assets/fonts/Ubuntu_Mono/UbuntuMono-Bold.ttf");
-}
-
-@font-face {
-  font-family: Lora;
-  src:url("/assets/fonts/Lora/Lora-VariableFont_wght.ttf");
-}
-
-@font-face {
-  font-family: source-sans-pro;
-  src:url("/assets/fonts/source-sans-pro/SourceSansPro-Semibold.ttf");
-}
-
-/*
 h1,h2,h3,h4,h5,h6 {
-  font-family: sans-serif;
+  font-family: Helvetica;
 }
 
 body {
   font-family: Lora;
 }
-/*
