@@ -17,11 +17,17 @@
   src:url("/assets/fonts/Lora/Lora-VariableFont_wght.ttf");
 }
 
+@font-face {
+  font-family: source-sans-pro;
+  src:url("/assets/fonts/source-sans-pro/SourceSansPro-Semibold.ttf");
+}
 
+/*
 h1,h2,h3,h4,h5,h6 {
-  font-family: Helvetica;
+  font-family: sans-serif;
 }
 
 body {
   font-family: Lora;
 }
+/*
