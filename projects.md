@@ -13,7 +13,7 @@ As a Data Management volunteer, I maintain 7L's internal knowledge-base detailin
 ### Mipaselak to sowal no Pangcah: a critical digital ethnography of two online 'Amis/Pangcah open language platforms, 'Amis MoeDict and 'Amis Wikipitiya
 My Master's thesis was a digital ethnographic description of the ['Amis MoeDict](https://amis.moedict.tw/) (an online open source 'Amis dictionary maintained by the Taiwanese civic hacking group, g0v) and ['Amis Wikipitiya](https://ami.wikipedia.org/wiki/Sa%E2%80%99ayayaw_pising_no_tyin-naw). My goal in analyzing these two platforms is to look at the intersection of 'Amis language activists and open source/culture organizations, and see how this coalition resolves issues related to language revitalization and reclamation including data sovereignty, equity of language varieties, and language standardization. I analyze these groups as communities of practice, and note how these CoP are motivated by and contribute to specific language ideologies. You can find a copy of my thesis via [the NDHU library](https://hdl.handle.net/11296/h9wqpf).
 
-As I continue my PhD, I plan to expand upon this work and look at the impact of initiatives such as Mozilla's Common Voice on Taiwanese Inigenous peoples, and how emergent language technologies are shaping language revitalization efforts.
+As I continue my PhD, I plan to expand upon this work and look at the impact of initiatives such as Mozilla's CommonVoice on Taiwanese Indigenous peoples, and how emergent language technologies such as GenAI are shaping language revitalization efforts.
 
 ## Past Projects
 
