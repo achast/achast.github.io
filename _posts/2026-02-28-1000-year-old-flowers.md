@@ -5,7 +5,7 @@ subtitle: A little pick me up
 cover-img:
 thumbnail-img:
 share-img: 
-tags: blog, podcast
+tags: china, paper, flowers
 author: Coleton Hast
 ---
 
