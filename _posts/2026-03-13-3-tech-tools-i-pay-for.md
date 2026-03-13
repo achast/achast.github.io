@@ -15,13 +15,13 @@ This brings me to the topic at hand, namely the services I pay for. We have been
 
 ## So let's get into it:
 
-**1. Proton Suite:** 
+**1. Proton Suite:**\ 
 Best known for Proton Mail and Proton VPN, this suite has attempted to be a private competitor to Google for some time. Mail and VPN are definitely their most mature services, but they also provide cloud storage, an LLM chatbot, a nascent office suite and a password manager among other things. I don't use all of these services, but they are all included at $5 a month for students so even just using what I do the student plan is a great value. Everything is end-to-end encrypted, (often) open source and third-party audited. Proton has courted some controversy (mainly from the CEO supporting a Trump-appointee), but in general I find very few who fault them on a technical level. Best not to put ALL your eggs in one basket, but Proton can't be beat as a strong intersection of privacy and convenience even if you use just a few of their services.
 
-**2. Ente.io:** 
+**2. Ente.io:**\
 Ente is a private photo cloud I've used for a little while now to free up space on my Macbook and phone while allowing a combined photo library of about 10 years of photos. It has image-recognition search through local models so I am able to do fuzzy searches of my photo library from any device. By pairing it with the larger storage but less feature-rich Proton Drive, I can use the smallest Ente plan by moving any large video files to the drive. Starts at a few bucks a month, has a 30% student discount, and came with 3 months free of the next service. It just works.
 
-**3. Kagi Search:** 
+**3. Kagi Search:**\
 This is my newest service and I have circled it for quite some time. Kagi is a paid-search engine (most usable in its $10/month tier) that many have been swearing by. The search results are fast, ad-free and highly customizable. I was hesitant about private search that requires account tied to my credit card to use, but through tools like Privacy Pass that allow for full anonymity and the general incentive-structure shying away from surveillance in favor of high-quality results, it seems a risk worth taking. Kagi also has become something of a suite of tools with its own translator, AI assistant (calling multiple models with no-train agreements) and really unique things like the Small Web app which helps you to browse small blogs and personal sites like it's the Golden Age of the internet again. If you are highly AI-avoidant it may not be for you, but the AI implementations I have seen are highly consent based, optional and did not add anything to the cost of the subscription when added. It's a really interesting service, they seem to have built up a lot of trust over the last few years and they are constantly adding new and interesting features. I am still on the three-month trial from Ente, but it will likely be a keeper for me!
 
 ## In Conclusion
