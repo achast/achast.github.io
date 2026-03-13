@@ -15,7 +15,7 @@ This brings me to the topic at hand, namely the services I pay for. We have been
 
 ## So let's get into it:
 
-**1. Proton Suite:**\ 
+**1. Proton Suite:**\
 Best known for Proton Mail and Proton VPN, this suite has attempted to be a private competitor to Google for some time. Mail and VPN are definitely their most mature services, but they also provide cloud storage, an LLM chatbot, a nascent office suite and a password manager among other things. I don't use all of these services, but they are all included at $5 a month for students so even just using what I do the student plan is a great value. Everything is end-to-end encrypted, (often) open source and third-party audited. Proton has courted some controversy (mainly from the CEO supporting a Trump-appointee), but in general I find very few who fault them on a technical level. Best not to put ALL your eggs in one basket, but Proton can't be beat as a strong intersection of privacy and convenience even if you use just a few of their services.
 
 **2. Ente.io:**\
