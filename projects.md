@@ -7,6 +7,8 @@ title: Projects
 ### Thinking from Pongso no Tao and Nuclear Colonialism Manuscript
 In 2022, I had the great priviledge to attend the Native American and Indigenous Studies Association's (NAISA) regional gathering at Pongso no Tao (Orchid Island, 蘭嶼) where Tao activists and scholars informed us about the threat that the storage of nuclear waste at Pongso no Tao has had to Tao health, livelihoods, and sovereignty, in addition to the effects of an exploitative tourism industry. I and my co-authors, spanning many Indigenous and non-Indigenous backgrounds and nationalities, authored a shared reaction to our experience, which is under review for publication. Follow these links to read more about [our NAISA regional gathering](https://naisa.org/conference/tkaronto/lanyu-taiwan/) and [the other gatherings](https://naisa.org/2022-regional-gatherings/) hosted in 2022.
 
+Update: This has now offically moved to being in-press with NAIS, more coming on when it will be available!
+
 ### 7000 Languages Data Management Volunteer
 As a Data Management volunteer, I maintain 7L's internal knowledge-base detailing the many communities they work with, and have served as a liaison between them and some of my 'Amis community partners interested in utilizing 7L's software. Check out [7L's website](https://www.7000.org/) to learn more about the great work they do.
 
