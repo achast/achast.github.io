@@ -1,0 +1,16 @@
+---
+layout: post
+title: I bought a CD player
+subtitle: I like machines that do one thing
+cover-img:
+thumbnail-img:
+share-img: 
+tags: cd, privacy
+author: Coleton Hast
+---
+
+Perusing the near e-waste at my local Salvation Army I stumbled upon a Sony CD/DVD player for 7 bucks. On an impulse I bought it, throwing it in my bike basket, and brought it home to my apartment. I had been curious about moving to more physical media as I don't particularly like my musical discovery and listening overly influence by Apple Music's algorithms (neither can I leave it as I am part of a family plan, and of course it is very convenient). I want to buy music the way I buy physical books: only if I know I already love a particular text and will come back to or if I want to specifically financially support the creator as directly as possible. CDs, unlike vinyl, are also in the sweetspot of genuinely cheap while being a lot easier to use than tapes. I have also been reading frequently across various blogs and small web oases about the joy of internet-less tech that exists to do one thing, and the joys that the frictions they create can bring us. Call me convinced.
+
+So with my little CD player at home I started hacking away at it trying to figure out what exactly I would need to do to get it working. I didn't actually have any speakers, and the ports were all AVC, much too old for any of my current cords or monitors. I bought the associated remote, some Creative Pebble speakers which I had enjoyed in the past, and a AVC-to-HDMI adapter for a total of 50 bucks secondhand on eBay (the speakers making up most of the cost). A few days later I had everything assembled, but was running into problems with the AVC-HDMI hookup. I could get picture, but no sound. I then bought both an aux cord and an AVC-aux cord to try and hook everything together in Frankenstein's monster-fashion. Around two weeks later I accomplished the impossible: the CD player successfully played my recently purchased copy of Kid A over my Pebble speakers.
+
+Again, coming back to this I think about the cost and time of putting something together that allows me to play the two albums I currently own when I have an embarrassment of digital media available to stream at my fingertips. I wondered several times when things didn't quite work whether I should just cut my losses (or just buy a slightly less troublesome CD player). In the end the answers I come back to are 1) it was fun, I like to tinker and make old tech new again. I like that I rescued a perfectly fine DVD/CD player from the trash and got it working again. 2) Like I alluded to earlier the friction is the point. Spotify's developers are on record saying that their ideal experience is for your to click a play button and for every other part of the musical experience to be taken care of for you. It's connected to the rise of "vibe-based" playlists rather than albums and AI music. That's not a world I want to live in and for some reason my Quixotic quest to get a CD player working felt related to all that.
