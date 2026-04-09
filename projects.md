@@ -12,13 +12,14 @@ Update: This has now offically moved to being in-press with NAIS, more coming on
 ### 7000 Languages Data Management Volunteer
 As a Data Management volunteer, I maintain 7L's internal knowledge-base detailing the many communities they work with, and have served as a liaison between them and some of my 'Amis community partners interested in utilizing 7L's software. Check out [7L's website](https://www.7000.org/) to learn more about the great work they do.
 
+## Past Projects
 ### Mipaselak to sowal no Pangcah: a critical digital ethnography of two online 'Amis/Pangcah open language platforms, 'Amis MoeDict and 'Amis Wikipitiya
 My Master's thesis was a digital ethnographic description of the ['Amis MoeDict](https://amis.moedict.tw/) (an online open source 'Amis dictionary maintained by the Taiwanese civic hacking group, g0v) and ['Amis Wikipitiya](https://ami.wikipedia.org/wiki/Sa%E2%80%99ayayaw_pising_no_tyin-naw). My goal in analyzing these two platforms is to look at the intersection of 'Amis language activists and open source/culture organizations, and see how this coalition resolves issues related to language revitalization and reclamation including data sovereignty, equity of language varieties, and language standardization. I analyze these groups as communities of practice, and note how these CoP are motivated by and contribute to specific language ideologies. You can find a copy of my thesis via [the NDHU library](https://hdl.handle.net/11296/h9wqpf).
 
-## Past Projects
+### The Crow Dictionary: Apsáalooke-English**
+First as an intern (2017-2020), and later as a full-time assistant editor (2020-2021) I contributed to the _Crow Dictionary: Apsáalooke-English_, working with Apsáalooke speakers to add and revise entries in the dictionary. The final dictionary is available for [free online](https://dictionary.crowlanguage.org/) and as a mobile app. It features over 11,000 entries with recordings from multiple speakers, morphological breakdowns, example sentences, and cultural background information.
 
-### The Crow Dictionary: Apsáalooke-English
-First as an intern (2017-2020), and later as a full-time assistant editor (2020-2021) I contributed to the _Crow Dictionary: Apsáalooke-English_, working with Apsáalooke speakers to add and revise entries in the dictionary. The final dictionary is available for [free online](https://dictionary.crowlanguage.org/) and as a mobile app, and features over 11,000 entries with recordings from male and female speakers, morphological breakdowns, example sentences, and cultural background information.
+**While I valued this work and my relationships with many Apsáaloke speakers, I chose to cut ties with this organization in 2021 due to concerns around Indigenous data sovereignty and self-governance. I choose only to work with partners who uphold these principles as their core mission.
 
 ### Fieldwork with Tibetic Languages in Nepal/India
 In 2018, I studied abroad in Kathmandu and carried out an independent research project in the Himalayan village, Walung. Walung is home to its own Tibetic language, Walungge, and I was interested in gauging speaker attitudes to their own language in the context of the existing linguistic landscape which included Nepali, Standard Tibetan, Chinese, and other local Tibetic languages. 
